@@ -1,3 +1,7 @@
+strong{
+  font-weight: bold !important;
+}
+
 .margined-title{
   padding: 20px 0;
 }
@@ -7,6 +11,9 @@
   margin: auto;
 }
 
+.card-body h6{
+  font-weight: bold;
+}
 @media only screen and (max-width: 767px){
   .cellphone-img{
     width: 150px;
